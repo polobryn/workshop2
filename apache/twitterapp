@@ -1,0 +1,4 @@
+<VirtualHost *:80>
+	DocumentRoot /www/workshop2/public
+	ServerName twitter.app
+</VirtualHost>
