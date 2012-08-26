@@ -1,0 +1,29 @@
+body {
+	margin: 0px;
+	font-family: sans-serif;
+	background-color: #eee;
+}
+
+#frame {
+	width: 600px;
+  height: 100%;
+	margin: 10px auto;
+	background-color: #fff;
+}
+
+.title {
+	font-size: 20px;
+  padding: 10px;
+}
+
+form {
+  padding: 10px;
+}
+
+input {
+  font-size: 14px;
+}
+
+.twitter {
+  margin: 10px;
+}

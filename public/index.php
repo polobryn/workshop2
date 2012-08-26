@@ -12,39 +12,8 @@ $search_term = (isset($_POST['search-term']))? $_POST['search-term'] : 'socialme
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <title>Looking at tweets on the topic off <?=$search_term?></title>
-<style type="text/css">
+<link rel="stylesheet" href="/css/style.css">
 
-body {
-	margin: 0px;
-	font-family: sans-serif;
-	background-color: #eee;
-}
-
-#frame {
-	width: 600px;
-  height: 100%;
-	margin: 10px auto;
-	background-color: #fff;
-}
-
-.title {
-	font-size: 20px;
-  padding: 10px;
-}
-
-form {
-  padding: 10px;
-}
-
-input {
-  font-size: 14px;
-}
-
-.twitter {
-  margin: 10px;
-}
-
-</style>
 </head>
 <body>
 <div id="frame">
