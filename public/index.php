@@ -54,7 +54,7 @@ $search_term = (isset($_POST['search-term']))? $_POST['search-term'] : 'socialme
       }
     }).render().start();
     </script>
-    <p>Hello My Name is Paul</p>
+    <p><strong>Hello My Name is Paul</strong></p>
   </div>
 </div>
 </body>
